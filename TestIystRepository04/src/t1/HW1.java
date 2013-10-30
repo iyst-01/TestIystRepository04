@@ -13,6 +13,7 @@ public class HW1 {
 		System.out.println("Add igromskyy3");
 		
 		System.out.println("Add igromskyy3");
+		System.out.println("Add igromskyy3");
 
 	}
 
