@@ -6,6 +6,7 @@ public class HW1 {
 		// TODO Auto-generated method stub
 		System.out.println("Add igromskyy");
 		System.out.println("Add igromskyy1");
+		System.out.println("Add igromskyy3");
 
 	}
 
