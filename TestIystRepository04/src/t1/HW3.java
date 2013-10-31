@@ -4,8 +4,7 @@ public class HW3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("add line in hotfix");
-		System.out.println("add line in hotfix2");
+		System.out.println("test2-1");
 	}
 
 }
